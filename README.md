@@ -1,3 +1,8 @@
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
+Hi there 👋
 
-Please feel free to take these and run with them. Make them your own and find you own insights
+I'm Shahab Ghafoor from Pakistan and currently persuing bachelor degree in Computer Science from University of Swat (UOS), Pakistan.
+
+🔭 I’m currently working on Supervised Machine Learning Algorithms
+👯 I’m looking to collaborate on Machine Learning projects
+⚡ Fun fact: I play more than 4 sports.
+📫 How to reach me: shahabghafoor.cs@gmail.com
