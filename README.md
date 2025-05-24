@@ -1,8 +1,8 @@
 Hi there 👋
 
-I'm Shahab Ghafoor from Pakistan and currently persuing bachelor degree in Computer Science from University of Swat (UOS), Pakistan.
+I'm Shahab Ghafoor, from Pakistan. I am currently pursuing a bachelor's degree in Computer Science from the University of Swat (UOS).
 
-🔭 I’m currently working on Supervised Machine Learning Algorithms
-👯 I’m looking to collaborate on Machine Learning projects
+🔭 I’m currently working on Advanced Deep Learning Algorithms
+👯 I’m looking to collaborate on Data Science and Analytics projects
 ⚡ Fun fact: I play more than 4 sports.
 📫 How to reach me: shahabghafoor.cs@gmail.com
